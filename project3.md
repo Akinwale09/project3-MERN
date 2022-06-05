@@ -7,3 +7,13 @@
 `sudo apt update`
 
 ![Ubuntu Update](images/sudoupdate.png)
+
+#### I'm to upgrade ubuntu server with the command below
+`sudo apt upgrade`
+
+![Ubuntu Upgrade](images/sudoupgrade.png)
+
+
+
+
+
