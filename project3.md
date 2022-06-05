@@ -325,7 +325,39 @@ console.log(`Server running on port ${port}`)
 
 ![Component](images/cdcomponent.png)
 
-#### Then in my Todo.js file I write the following code
+#### I need to make little adjustment to my react code. I Delete the logo and adjust our App.js. Move to the src folder.
+
+`cd ..`
+`vi App.js`
+![App](images/app.png)
+
+#### Exit In the src directory open the index.css
+
+`vim index.css`
+![CSS](images/css.png)
+
+#### I Go to the Todo directory using this command
+
+`cd ../..`
+
+![CD](images/cdcd.png)
+
+
+#### When I get to Todo directory I run:
+
+`npm run dev`
+
+![NPM Run](images/npmrun.png)
+
+#### No errors when saving all these files, my To-Do app is ready and fully functional with the functionality discussed earlier: creating a task, deleting a task and viewing all your tasks.
+
+![NPM Run](images/myapp.png)
+
+
+
+
+
+
 
 
 
