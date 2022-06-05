@@ -349,7 +349,7 @@ console.log(`Server running on port ${port}`)
 
 ![NPM Run](images/npmrun.png)
 
-#### No errors when saving all these files, my To-Do app is ready and fully functional with the functionality discussed earlier: creating a task, deleting a task and viewing all your tasks.
+#### No errors when saving all these files, my To-Do app is ready and fully functional with the functionality discussed earlier: creating a task, deleting a task and viewing all my tasks.
 
 ![NPM Run](images/myapp.png)
 
